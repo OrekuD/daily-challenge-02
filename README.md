@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Daily challenge 02
 
 A simple log in form
+
+![Inspiration](https://github.com/OrekuD/daily-challenge-02/blob/master/src/images/img2.png?raw=true)
